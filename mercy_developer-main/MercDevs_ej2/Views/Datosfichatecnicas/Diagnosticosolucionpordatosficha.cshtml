@@ -1,0 +1,26 @@
+﻿
+
+<h2>Diagnóstico y Soluciones</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Descripcion Diagnostico</th>
+            <th>Descripcion Solucion</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var diagnostico in Model.Diagnosticosolucions)
+        {
+            <tr>
+                <td>@diagnostico.DescripcionDiagnostico</td>
+                <td>@diagnostico.DescripcionSolucion</td>
+                <td>
+                    <a asp-action="Edit" asp-controller="Diagnosticosolucions" asp-route-id="@diagnostico.IdDiagnosticoSolucion"><button class="btn-primary">Editar</button></a> |
+                    <a asp-action="Details" asp-controller="Diagnosticosolucions" asp-route-id="@diagnostico.IdDiagnosticoSolucion"><button class="btn-info">Detalles</button></a> |
+                    <a asp-action="Delete" asp-controller="Diagnosticosolucions" asp-route-id="@diagnostico.IdDiagnosticoSolucion"><button class="btn-danger">Borrar</button></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

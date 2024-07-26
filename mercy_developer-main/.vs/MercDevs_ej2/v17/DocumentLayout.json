@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\usuario\\documents\\reinaldo\\reimoc96\\mercy_developer_ev4e8\\mercy_developer-main\\mercdevs_ej2\\views\\datosfichatecnicas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\datosfichatecnicas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\usuario\\documents\\reinaldo\\reimoc96\\mercy_developer_ev4e8\\mercy_developer-main\\mercdevs_ej2\\controllers\\datosfichatecnicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\controllers\\datosfichatecnicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\usuario\\documents\\reinaldo\\reimoc96\\mercy_developer_ev4e8\\mercy_developer-main\\mercdevs_ej2\\views\\datosfichatecnicas\\verdatosfichatecnicaporrecepcion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\datosfichatecnicas\\verdatosfichatecnicaporrecepcion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\usuario\\documents\\reinaldo\\reimoc96\\mercy_developer_ev4e8\\mercy_developer-main\\mercdevs_ej2\\views\\datosfichatecnicas\\fichatecnica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\datosfichatecnicas\\fichatecnica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\usuario\\documents\\reinaldo\\reimoc96\\mercy_developer_ev4e8\\mercy_developer-main\\mercdevs_ej2\\models\\datosfichatecnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\models\\datosfichatecnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\usuario\\documents\\reinaldo\\reimoc96\\mercy_developer_ev4e8\\mercy_developer-main\\mercdevs_ej2\\views\\datosfichatecnicas\\diagnosticosolucionpordatosficha.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\datosfichatecnicas\\diagnosticosolucionpordatosficha.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\usuario\\documents\\reinaldo\\reimoc96\\mercy_developer_ev4e8\\mercy_developer-main\\mercdevs_ej2\\views\\datosfichatecnicas\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\datosfichatecnicas\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|c:\\users\\usuario\\documents\\reinaldo\\reimoc96\\mercy_developer_ev4e8\\mercy_developer-main\\mercdevs_ej2\\views\\recepcionequipoes\\indexid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD3F8B83-F583-42C9-8F0B-E39CD8378A12}|MercDevs_ej2\\MercDevs_ej2.csproj|solutionrelative:mercdevs_ej2\\views\\recepcionequipoes\\indexid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VerDatosFichaTecnicaPorRecepcion.cshtml",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Views\\Datosfichatecnicas\\VerDatosFichaTecnicaPorRecepcion.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Datosfichatecnicas\\VerDatosFichaTecnicaPorRecepcion.cshtml",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Views\\Datosfichatecnicas\\VerDatosFichaTecnicaPorRecepcion.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Datosfichatecnicas\\VerDatosFichaTecnicaPorRecepcion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T03:02:19.672Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FichaTecnica.cshtml",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Views\\Datosfichatecnicas\\FichaTecnica.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Datosfichatecnicas\\FichaTecnica.cshtml",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Views\\Datosfichatecnicas\\FichaTecnica.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Datosfichatecnicas\\FichaTecnica.cshtml",
+              "ViewState": "AQIAAFYBAAAAAAAAAAAUwHUBAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T03:05:54.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inicio.cshtml",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Views\\Datosfichatecnicas\\Inicio.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Datosfichatecnicas\\Inicio.cshtml",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Views\\Datosfichatecnicas\\Inicio.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Datosfichatecnicas\\Inicio.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T03:02:12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndexId.cshtml",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Views\\Recepcionequipoes\\IndexId.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Recepcionequipoes\\IndexId.cshtml",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Views\\Recepcionequipoes\\IndexId.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Recepcionequipoes\\IndexId.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T03:01:57.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Datosfichatecnica.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Models\\Datosfichatecnica.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Models\\Datosfichatecnica.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Models\\Datosfichatecnica.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Models\\Datosfichatecnica.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wBoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:51:33.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Views\\Datosfichatecnicas\\Index.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Datosfichatecnicas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Views\\Datosfichatecnicas\\Index.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Datosfichatecnicas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T02:46:38.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatosfichatecnicasController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Controllers\\DatosfichatecnicasController.cs",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Controllers\\DatosfichatecnicasController.cs",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Controllers\\DatosfichatecnicasController.cs",
+              "RelativeToolTip": "MercDevs_ej2\\Controllers\\DatosfichatecnicasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:37:41.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 78,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Diagnosticosolucionpordatosficha.cshtml",
+              "DocumentMoniker": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Views\\Datosfichatecnicas\\Diagnosticosolucionpordatosficha.cshtml",
+              "RelativeDocumentMoniker": "MercDevs_ej2\\Views\\Datosfichatecnicas\\Diagnosticosolucionpordatosficha.cshtml",
+              "ToolTip": "C:\\Users\\usuario\\Documents\\reinaldo\\REIMOC96\\mercy_developer_ev4e8\\mercy_developer-main\\MercDevs_ej2\\Views\\Datosfichatecnicas\\Diagnosticosolucionpordatosficha.cshtml",
+              "RelativeToolTip": "MercDevs_ej2\\Views\\Datosfichatecnicas\\Diagnosticosolucionpordatosficha.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T02:45:54.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

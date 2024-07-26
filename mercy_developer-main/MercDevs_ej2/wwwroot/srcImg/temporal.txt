@@ -1,0 +1,168 @@
+@model MercDevs_ej2.Models.Datosfichatecnica
+
+        Tipo: @{
+            string tipoEquipo = "";
+            switch (Model.RecepcionEquipo.TipoPc)
+            {
+                case 0:
+                    tipoEquipo = "PC Torre";
+                    break;
+                case 1:
+                    tipoEquipo = "Notebook";
+                    break;
+                case 2:
+                    tipoEquipo = "All-In-One";
+                    break;
+                default:
+                    tipoEquipo = "Desconocido";
+                    break;
+            }
+            @tipoEquipo
+        }
+    </p>
+    <p>Accesorios: @Model.RecepcionEquipo.Accesorio</p>
+    <p>Marca: @Model.RecepcionEquipo.MarcaPc</p>
+    <p>Modelo: @Model.RecepcionEquipo.ModeloPc</p>
+    <p>S/N: @Model.RecepcionEquipo.Nserie</p>
+    <p>
+        Capacidad Ram: @{
+            string memoriaRam = "";
+            switch (Model.RecepcionEquipo.CapacidadRam)
+            {
+                case 0:
+                    memoriaRam = "4 GB";
+                    break;
+                case 1:
+                    memoriaRam = "6 GB";
+                    break;
+                case 2:
+                    memoriaRam = "8 GB";
+                    break;
+                case 3:
+                    memoriaRam = "16 GB";
+                    break;
+                case 4:
+                    memoriaRam = "Otro";
+                    break;
+            }
+            @memoriaRam
+        }
+    </p>
+    <p>
+        Almacenamiento: @{
+            string almacenamiento = "";
+            switch (Model.RecepcionEquipo.TipoAlmacenamiento)
+            {
+                case 0:
+                    almacenamiento = "HDD";
+                    break;
+                case 1:
+                    almacenamiento = "SDD Sata";
+                    break;
+                case 2:
+                    almacenamiento = "SDD M.2";
+                    break;
+                case 3:
+                    almacenamiento = "SSD NVM M.2";
+                    break;
+            }
+            @almacenamiento
+        }
+    </p>
+    <p>Capacidad Almacenamiento: @Model.RecepcionEquipo.CapacidadAlmacenamiento</p>
+    <p>
+        GPU: @{
+            string gpu = "";
+            switch (Model.RecepcionEquipo.TipoGpu)
+            {
+                case 0:
+                    gpu = "Chip Integrado";
+                    break;
+                case 1:
+                    gpu = "Tarjeta";
+                    break;
+                case 2:
+                    gpu = "Otro";
+                    break;
+            }
+            @gpu
+        }
+    </p>
+    <p>Grafico: @Model.RecepcionEquipo.Grafico</p>
+    <p>
+        SO Instalado: @{
+            string soinstalado = "";
+            switch (Model.Soinstalado)
+            {
+                case 0:
+                    soinstalado = "Windows 10";
+                    break;
+                case 1:
+                    soinstalado = "Windows 11";
+                    break;
+                case 2:
+                    soinstalado = "Linux";
+                    break;
+            }
+            @soinstalado
+        }
+    </p>
+    <p>
+        Suite Office Instalado: @{
+            string suiteofficeinstalada = "";
+            switch (Model.Soinstalado)
+            {
+                case 0:
+                    suiteofficeinstalada = "Microsoft Office 2013";
+                    break;
+                case 1:
+                    suiteofficeinstalada = "Microsoft Office 2019";
+                    break;
+                case 2:
+                    suiteofficeinstalada = "Microsoft Office 365";
+                    break;
+                case 3:
+                    suiteofficeinstalada = "OpenOffice";
+                    break;
+            }
+            @suiteofficeinstalada
+        }
+    </p>
+    <p>
+        Lector PDF Instalado: @{
+            string lectorpdfinstalado = "";
+            switch (Model.Soinstalado)
+            {
+                case 0:
+                    lectorpdfinstalado = "No Instalado";
+                    break;
+                case 1:
+                    lectorpdfinstalado = "Instalado";
+                    break;
+                case 2:
+                    lectorpdfinstalado = "No Aplica";
+                    break;
+            }
+            @lectorpdfinstalado
+        }
+    </p>
+    <p>
+        Navegador Web Instalado: @{
+            string navegadorwebinstalado = "";
+            switch (Model.NavegadorWebInstalado)
+            {
+                case 0:
+                    navegadorwebinstalado = "No Instalado";
+                    break;
+                case 1:
+                    navegadorwebinstalado = "Chrome";
+                    break;
+                case 2:
+                    navegadorwebinstalado = "Chrome y Firefox";
+                    break;
+            }
+            @navegadorwebinstalado
+        }
+    </p>
+    <p>Antivirus Instalado: @Model.AntivirusInstalado</p>
+</div>
